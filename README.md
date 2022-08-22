@@ -1,4 +1,4 @@
-## Henry Huang - Ciena Project
+## Henry Huang - Ciena Test Assignment (Fibonacci)
 
 ## Instructions
 
@@ -16,7 +16,7 @@
     pytest
 ```
 
-## Screenshots
+## UI Screenshots
 
 ![image](https://user-images.githubusercontent.com/28918214/185950379-7c0f68df-1f16-4a07-8fd7-79aae2c58a0d.png)
 
