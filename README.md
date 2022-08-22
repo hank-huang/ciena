@@ -15,3 +15,9 @@
 ```
     pytest
 ```
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/28918214/185950379-7c0f68df-1f16-4a07-8fd7-79aae2c58a0d.png)
+
+![image](https://user-images.githubusercontent.com/28918214/185950599-8245ff4c-b6e2-4d12-b80d-6e9418c8b445.png)
